@@ -1,0 +1,586 @@
+@media all and (max-width: 1600px) {
+    //map
+    .map{
+    .card {
+        margin-left: 20px;
+        width: 63%;
+    }
+}
+}
+@media all and (max-width: 1199px) {
+
+    // vl
+    .vl {
+        height: 120px;
+    }
+
+    .whattodo .vl3 {
+        height: 120px;
+        transform: translateY(-60px);
+    }
+
+    // banner-box
+    .banner-box p {
+        font-size: 10px;
+    }
+
+    // first header and body
+    .first-header p {
+        font-size: 14px;
+    }
+
+    .first-body {
+        h1 {
+            font-size: 50px;
+        }
+
+        h3 {
+            font-size: 24px;
+        }
+
+        p {
+            font-size: 14px;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+
+    // gallery
+    .gallery p {
+        font-size: 14px;
+    }
+
+    // map
+    .map {
+    .card {
+        width: 80%;
+
+  
+    }
+}
+
+
+    // what to do 
+    .whattodo-header {
+        p {
+            font-size: 14px;
+        }
+    }
+
+    .whattodo-body {
+        img {
+            width: 100%;
+            height: auto;
+        }
+
+        .row {
+            h4 {
+                font-size: 24px;
+            }
+
+            p {
+                font-size: 14px;
+            }
+        }
+    }
+
+    // latest news
+    .blog-body {
+        .row {
+            p {
+                font-size: 14px;
+            }
+        }
+    }
+
+    // footer
+    footer {
+        .text-uppercase {
+            font-size: 15px;
+        }
+
+        .list-unstyled a {
+            font-size: 12px;
+        }
+    }
+}
+
+@media all and (max-width: 991px) {
+
+    // vl
+    .vl {
+        height: 100px;
+    }
+
+    .whattodo .vl3 {
+        height: 100px;
+        transform: translateY(-50px);
+    }
+
+    // banner-box
+    .banner-box p {
+        font-size: 9px;
+    }
+
+    // first header and body
+    .first-header p {
+        font-size: 12px;
+    }
+
+    .first-body {
+        h1 {
+            font-size: 45px;
+        }
+
+        h3 {
+            font-size: 18px;
+        }
+
+        p {
+            font-size: 12px;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+
+    // testimonial
+
+    .testimonial {
+        .carousel {
+            width: 80%;
+        }
+    }
+
+    // gallery
+    .gallery p {
+        font-size: 14px;
+    }
+
+    // map
+    .map {
+        .card {
+            width: 80%;
+            p {
+                font-size: 14px;
+            }
+            .card-bottom{
+                margin-top: 0;
+                h5 {
+                    font-size: 18px;
+                }
+                .air-plain {
+                    width: 40px;
+                }
+            }
+        }
+    }
+
+    // what to do 
+    .whattodo-header {
+        p {
+            font-size: 12px;
+        }
+    }
+
+    .whattodo-body {
+        img {
+            width: 100%;
+            height: auto;
+        }
+
+        .row {
+            h4 {
+                font-size: 20px;
+            }
+
+            p {
+                font-size: 12px;
+            }
+        }
+    }
+
+    // latest news
+    .blog-body {
+        .row {
+            p {
+                font-size: 12px;
+            }
+        }
+    }
+
+    // footer
+    footer {
+        .text-uppercase {
+            font-size: 15px;
+        }
+
+        .list-unstyled a {
+            font-size: 12px;
+        }
+    }
+}
+
+@media all and (max-width: 768px) {
+    .carousel {
+        display: none;
+    }
+    .first {
+        padding-top: 50px;
+    }
+
+    // vl
+    .vl {
+        height: 80px;
+    }
+
+    .whattodo .vl3 {
+        height: 80px;
+        transform: translateY(-40px);
+    }
+
+    // banner-box
+    .banner-box p {
+        font-size: 8.5px;
+    }
+
+    // first header and body
+    .first-header p {
+        font-size: 13px;
+    }
+
+    .first-body {
+        h1 {
+            font-size: 45px;
+        }
+
+        h3 {
+            font-size: 20px;
+        }
+
+        p {
+            font-size: 13px;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+
+    // testimonial
+
+    .testimonial {
+        .carousel {
+            width: 100%;
+        }
+    }
+
+    // gallery
+    .gallery {
+        p {
+            font-size: 14px;
+        }
+
+        .tz-gallery {
+            .lightbox img {
+                height: auto;
+            }
+        }
+    }
+
+
+    // map
+    .map {
+        .card {
+            margin: 2%;
+            width: 95%;
+            p {
+                font-size: 10px;
+            }
+            h4 {
+                font-size: 20px;
+            }
+
+            .card-bottom{
+                margin: 0;
+                h5 {
+                    font-size: 15px;
+                }
+                i {
+                    font-size: 12px;
+                }
+            .air-plain {
+                width: 40px;
+            }
+        }
+        }
+    }
+
+    // what to do 
+    .whattodo-header {
+        p {
+            font-size: 14px;
+        }
+    }
+
+    .whattodo-body {
+        img {
+            width: 100%;
+            height: auto;
+        }
+
+        .row {
+            h4 {
+                font-size: 20px;
+            }
+
+            p {
+                font-size: 14px;
+            }
+        }
+    }
+
+    // latest news
+    .blog-body {
+        .row {
+            p {
+                font-size: 14px;
+            }
+        }
+    }
+
+    // footer
+    footer {
+        .text-uppercase {
+            font-size: 15px;
+        }
+
+        .list-unstyled a {
+            font-size: 14px;
+        }
+    }
+}
+
+@media all and (max-width: 575px) {
+    //carousel
+    .carousel {
+        display: none;
+    }
+    .first {
+        padding-top: 50px;
+    }
+
+    // vl
+    .vl {
+        height: 50px;
+    }
+
+    .whattodo .vl3 {
+        height: 50px;
+        transform: translateY(-25px);
+    }
+    // carousel 
+    
+    .carousel-caption {
+        h1 {
+            font-size: 21px;
+        }
+    }
+    
+    // banner-box
+    .banner-box {
+        width: 21%;
+        margin-left: 39%;
+
+        p {
+            font-size: 9px;
+        }
+    }
+
+    // first header and body
+    .first-header p {
+        font-size: 13px;
+    }
+
+    .first-body {
+        h1 {
+            font-size: 45px;
+        }
+
+        h3 {
+            font-size: 20px;
+        }
+
+        p {
+            font-size: 15px;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+
+    // testimonial
+
+    .testimonial {
+        .carousel {
+            width: 100%;
+        }
+    }
+
+    // gallery
+    .gallery {
+        p {
+            font-size: 15px;
+        }
+
+        .tz-gallery {
+            .lightbox img {
+                height: auto;
+            }
+        }
+    }
+
+
+    // map
+    .map {
+        .card {
+            margin: 1%;
+            width: 98%;
+            h4 {
+                font-size: 16px;
+                margin: 5px; 
+            }
+            p {
+                font-size: 10px;
+            }
+            h4 {
+                font-size: 20px;
+            }
+
+            .card-bottom{
+                margin: 0;
+                h5 {
+                    font-size: 12px;
+                    margin: 0;
+                }
+                i {
+                    margin: 0;
+                    font-size: 10px;
+                }
+            .air-plain {
+                width: 30px;
+            }
+        }
+        }
+    }
+
+    // what to do 
+    .whattodo-header {
+        p {
+            font-size: 14px;
+        }
+    }
+
+    .whattodo-body {
+        img {
+            width: 100%;
+            height: auto;
+        }
+
+        .row {
+            h4 {
+                font-size: 20px;
+            }
+
+            p {
+                font-size: 14px;
+            }
+        }
+    }
+
+    // latest news
+    .blog-body {
+        .row {
+            p {
+                font-size: 14px;
+            }
+        }
+    }
+
+    // footer
+    footer {
+        .text-uppercase {
+            font-size: 18px;
+        }
+
+        .list-unstyled a {
+            font-size: 16px;
+        }
+    }
+}
+@media only screen and (min-width : 320px) and (max-width : 480px) {
+    // carousel 
+    .carousel {
+        display: none;
+    }
+    .first {
+        padding-top: 50px;
+    }
+
+    //map
+    .map {
+        .card {
+            width: 90%;
+            margin: 0 auto;
+            text-align: center;
+            hr {
+                margin: 10px 0 10px 0;
+                background-color: $main-color;
+                width: 3%;
+                margin-left: 50%;
+                transform: translateX(-50%);
+            }
+            .card-side {
+                margin: 0 auto;
+            }
+            .card-image{
+                display: none;
+            }
+            .card-bottom {
+                width: 100%;
+            }
+        }
+    }
+    // subscribe
+    .subscribe {
+        background-color: $light-grey;
+        text-align: center;
+    
+        p {
+            padding-top: 50px;
+        }
+    
+        .row {
+            width: 100%;
+
+    
+            .input-group {
+                form {
+                    width: 100%;
+                    display: flex;
+                    padding: 10px 10px 8px 10px;
+                    background-color: $white-color
+                }
+    
+            }
+        }
+    }
+}
